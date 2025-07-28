@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [gitHub & LinkedIn](gitHub & LinkedIn)
 
-- 💬 Ask me about **ML, Python, Python Library's, Sql, PowerBI**
+- 💬 Ask me about **ML, Python, Python Library's, Sql, PowerBI, Big Data, Cloud, Excel**
 
 - 📫 How to reach me **jainhridyanshi@gmail.com**
 
