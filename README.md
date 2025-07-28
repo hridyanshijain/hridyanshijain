@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jainhridyanshi@gmail.com**
 
-- ⚡ Fun fact **I love Traveling and see nature**
+- ⚡ Fun fact **I love paintings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
