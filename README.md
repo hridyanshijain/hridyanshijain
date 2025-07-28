@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML with AI**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help in **Data Science**
 
 - 👨‍💻 All of my projects are available at [gitHub & LinkedIn](gitHub & LinkedIn)
 
